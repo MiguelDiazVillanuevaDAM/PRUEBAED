@@ -12,6 +12,9 @@ public class FUtil {
 			}
 		return existe;
 	}
+	public static boolean a(String texto) {
+		return true;
+	}
 	public static void main(String[] args) throws FileNotFoundException {
 		Scanner teclado=new Scanner(System.in);
 			String archivo=teclado.next();
@@ -21,5 +24,6 @@ public class FUtil {
 		File fichero=new File(path+archivo);
 		System.out.println(FUtil.existe(fichero));
 		
+		System.out.println(FUtil.a("hola"));
 	}
 }
