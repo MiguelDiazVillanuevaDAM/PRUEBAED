@@ -3,9 +3,8 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 /**
- * 
+ * sasdaddasd
  * @author Miguel
- * @version 1.0
  */
 public class FUtil {
 
