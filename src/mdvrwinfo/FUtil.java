@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * 
  * @author Miguel
- *
+ * @version 1.0
  */
 public class FUtil {
 
