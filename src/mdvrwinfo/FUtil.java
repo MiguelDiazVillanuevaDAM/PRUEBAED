@@ -2,6 +2,11 @@ package mdvrwinfo;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
+/**
+ * 
+ * @author Miguel
+ *
+ */
 public class FUtil {
 
 	public static boolean existe(File archivo) {
